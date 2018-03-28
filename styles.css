@@ -1,0 +1,23 @@
+#document {
+    background-color: gray
+}
+
+article {
+    padding: 25px 50px 25px;
+}
+
+p.main {
+    text-align: center
+}
+
+p.footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75%;
+}
